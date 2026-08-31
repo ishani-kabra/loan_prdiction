@@ -186,10 +186,10 @@ The final model was evaluated using classification metrics including:
 
 | Metric    |      Score |
 | --------- | ---------: |
-| Accuracy  | **XX.XX%** |
-| Precision | **XX.XX%** |
-| Recall    | **XX.XX%** |
-| F1 Score  | **XX.XX%** |
+| Accuracy  | **XX.XX%*98.36065573770492 %** |
+| Precision | **0.9840764331210191 %** |
+| Recall    | ** 0.9716981132075472%** |
+| F1 Score  | **0.9778481012658228** |
 
 ---
 
