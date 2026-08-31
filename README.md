@@ -186,7 +186,7 @@ The final model was evaluated using classification metrics including:
 
 | Metric    |      Score |
 | --------- | ---------: |
-| Accuracy  | **XX.XX%*98.36065573770492 %** |
+| Accuracy  | ***98.36065573770492 %** |
 | Precision | **0.9840764331210191 %** |
 | Recall    | ** 0.9716981132075472%** |
 | F1 Score  | **0.9778481012658228** |
@@ -329,9 +329,3 @@ Ishani Kabra
 
 
 
-
----
-
-## ⭐ Project
-
-If you found this project interesting, consider giving the repository a ⭐.
